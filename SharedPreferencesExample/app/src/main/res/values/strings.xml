@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferencesExample</string>
+    <string name="txtDescription">Escriu el text a guardar</string>
+    <string name="btnSave">Guardar preference</string>
+    <string name="btnShow">Mostrar preference</string>
+    <string name="txtResult">El text de la preference: </string>
+</resources>
