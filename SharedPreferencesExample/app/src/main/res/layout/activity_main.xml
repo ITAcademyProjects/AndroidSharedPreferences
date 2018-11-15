@@ -45,4 +45,9 @@
         android:text="@string/txtResult"
         android:layout_height="wrap_content" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClickBtnSecond"
+        android:text="Second" />
 </LinearLayout>
